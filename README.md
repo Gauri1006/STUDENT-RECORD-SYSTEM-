@@ -114,6 +114,4 @@ inheritance, constructors, data encapsulation, and method implementation.
 The assignment fulfills the requirements of Java Lab Assignment 1 and 
 provides a strong foundation in class-based program design.
 
-===========================================
-           END OF README FILE
-===========================================
+
